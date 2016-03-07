@@ -1,6 +1,6 @@
 #----------------------------------------------------------------
 #
-#  Makefile for Pamela/MongoDB/Root
+#  Makefile for Date Time
 #
 #  Author: Raffaele Ficcadenti
 #
